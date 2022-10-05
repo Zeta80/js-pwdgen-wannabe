@@ -13,12 +13,13 @@ console.log(userLastName, typeof userLastName);
 const userColor = prompt('Il colore che prediligi?');
 console.log(userColor, typeof userColor);
 
+// Password generator
 const password = userName + userLastName + userColor + number;
-console.log(password)
+console.log(password);
 
 // Output
 const userPassword = 'Questa è la tua password: ' + password;
 document.getElementById("password").innerHTML = userPassword;
-console.log(userPassword)
+console.log(userPassword);
 
 // JAVASASSONE (▀̿Ĺ̯▀̿ ̿)🗿
