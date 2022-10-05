@@ -20,3 +20,5 @@ console.log(password)
 const userPassword = 'Questa è la tua password: ' + password;
 document.getElementById("password").innerHTML = userPassword;
 console.log(userPassword)
+
+// JAVASASSONE (▀̿Ĺ̯▀̿ ̿)🗿
