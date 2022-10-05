@@ -1,5 +1,6 @@
 // Numero
 const number = 21;
+console.log(number, typeof number);
 
 // Chiedi all’utente il suo nome,
 const userName = prompt('Come ti chiamare tu?');
